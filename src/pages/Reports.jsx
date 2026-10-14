@@ -1,5 +1,5 @@
 import { Download, IndianRupee, ShoppingBag, Coffee, Clock } from "lucide-react";
-import Sidebar from "../components/SideBar";
+import Sidebar from "../components/Sidebar";
 import ReportCard from "../components/ReportCard";
 import { useCoffee } from "../context/CoffeeContext";
 import { formatINR } from "../services/api";
